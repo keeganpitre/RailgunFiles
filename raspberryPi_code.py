@@ -19,5 +19,7 @@ for i in range(0,numTimes):## Run loop numTimes
 iterations = raw_input("Enter total number of times to blink: ")
 speed = raw_input("Enter length of each blink(seconds): ")
 
+## test commit
+
 ## Start Blink() function. Convert user input from strings to numeric data types and pass to Blink() as parameters
 Blink(int(iterations),float(speed))
